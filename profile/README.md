@@ -22,12 +22,6 @@ Welcome to my GitHub! I'm a passionate developer dedicated to crafting efficient
 
 ---
 
-## 🔥 GitHub Statistics  
-![VentryNet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VentryNet&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VentryNet&layout=compact&theme=radical)  
-
----
-
 ## 📬 Get in Touch  
 📩 **Email:** [your-email@example.com](mailto:your-email@example.com)  
 🌍 **Website:** [ventrynet.dev](https://ventrynet.dev)  
